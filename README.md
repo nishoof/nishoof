@@ -11,3 +11,7 @@ I'm a student at the [University of San Francisco](https://www.usfca.edu/) major
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like camping, backpacking, and hiking 🏕️  
 I also play videogames, mostly Valorant 🕹️
+
+## Personal Projects (just for fun & practice)
+- [Pet Faadil (a discord bot)](https://github.com/nishoof/pet-faadil)
+- [Elevator Simulator](https://github.com/nishoof/Elevator)
