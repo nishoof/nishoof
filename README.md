@@ -12,7 +12,8 @@ I'm a student at the [University of San Francisco](https://www.usfca.edu/) major
 - ⚡ Fun fact: I like camping, backpacking, and hiking 🏕️  
   I also play videogames, mostly Valorant 🕹️
 
-## Personal Projects (just for fun & practice)
+## Personal Projects
+- [crts.io (1st place at BLOOM)](https://github.com/nishoof/crts)
 - [Newsflash (3rd place at DEPLOY/24)](https://github.com/nishoof/newsflash)
 - [Elevator Simulator](https://github.com/nishoof/Elevator)
 - [Compsigh Bot](https://github.com/nishoof/compsigh-bot)
